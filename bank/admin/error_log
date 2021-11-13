@@ -1,0 +1,19 @@
+[17-Jul-2021 02:27:46 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/bank/admin/pdf.php on line 5
+[17-Jul-2021 02:27:46 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/bank/admin/pdf.php on line 5
+[17-Jul-2021 02:27:46 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/bank/admin/pdf.php on line 5
+[17-Jul-2021 02:29:04 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/bank/admin/pdf.php on line 5
+[17-Jul-2021 02:29:04 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/bank/admin/pdf.php on line 5
+[17-Jul-2021 02:29:04 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/bank/admin/pdf.php on line 5
+[17-Jul-2021 02:29:15 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/bank/admin/pdf.php on line 5
+[17-Jul-2021 02:29:15 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/bank/admin/pdf.php on line 5
+[17-Jul-2021 02:29:15 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/bank/admin/pdf.php on line 5
+[17-Jul-2021 02:31:03 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/bank/admin/pdf.php on line 5
+[17-Jul-2021 02:31:03 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/bank/admin/pdf.php on line 5
+[17-Jul-2021 02:31:03 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/bank/admin/pdf.php on line 5
+[22-Jul-2021 21:07:49 Africa/Johannesburg] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/admin/csv.php on line 35
+[25-Jul-2021 16:36:55 Africa/Johannesburg] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/admin/viewClient.php on line 312
+[30-Jul-2021 02:23:57 Africa/Johannesburg] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/admin/viewClient.php on line 312
+[30-Jul-2021 02:24:37 Africa/Johannesburg] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/admin/viewClient.php on line 312
+[30-Jul-2021 10:56:01 Africa/Johannesburg] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/admin/viewClient.php on line 312
+[30-Jul-2021 10:56:49 Africa/Johannesburg] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/admin/viewClient.php on line 312
+[30-Jul-2021 10:56:55 Africa/Johannesburg] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/admin/viewClient.php on line 312

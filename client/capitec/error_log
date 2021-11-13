@@ -1,0 +1,87 @@
+[13-Jun-2021 13:36:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/client/capitec/index.php on line 10
+[29-Jun-2021 01:21:17 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 01:21:17 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 01:21:17 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 02:08:14 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 02:08:14 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 02:08:14 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 09:54:55 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 09:54:55 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 09:54:55 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 09:55:24 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 09:55:24 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 09:55:24 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 09:55:26 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 09:55:26 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 09:55:26 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 09:56:51 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 09:56:51 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[29-Jun-2021 09:56:51 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:07 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:07 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:07 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:12 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:12 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:12 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:13 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:13 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:13 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:18 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:18 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:18 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:58 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:58 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:36:58 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:43:11 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:43:11 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:43:11 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:43:16 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:43:16 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:43:16 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:43:17 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:43:17 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 00:43:17 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 01:04:16 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 01:04:16 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 01:04:16 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 01:05:50 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 01:05:50 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 01:05:50 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 01:07:30 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 01:07:30 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[30-Jun-2021 01:07:30 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[01-Jul-2021 03:17:58 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[01-Jul-2021 03:17:58 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[01-Jul-2021 03:17:58 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[01-Jul-2021 12:12:18 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[01-Jul-2021 12:12:18 Africa/Johannesburg] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[01-Jul-2021 12:12:18 Africa/Johannesburg] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/capitec/viewStatement.php on line 4
+[21-Jul-2021 17:33:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 191
+[21-Jul-2021 19:36:31 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 120
+[21-Jul-2021 19:36:31 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 120
+[21-Jul-2021 19:36:31 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 120
+[21-Jul-2021 19:36:31 Africa/Johannesburg] PHP Warning:  is_file() expects parameter 1 to be a valid path, object given in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 157
+[22-Jul-2021 03:12:49 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 293
+[22-Jul-2021 03:12:49 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 293
+[22-Jul-2021 03:12:49 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 293
+[22-Jul-2021 03:12:49 Africa/Johannesburg] PHP Warning:  is_file() expects parameter 1 to be a valid path, object given in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 330
+[22-Jul-2021 03:14:19 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 120
+[22-Jul-2021 03:14:19 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 120
+[22-Jul-2021 03:14:19 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 120
+[22-Jul-2021 03:14:19 Africa/Johannesburg] PHP Warning:  is_file() expects parameter 1 to be a valid path, object given in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 157
+[29-Jul-2021 22:59:21 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 293
+[29-Jul-2021 22:59:21 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 293
+[29-Jul-2021 22:59:21 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 293
+[29-Jul-2021 22:59:21 Africa/Johannesburg] PHP Warning:  is_file() expects parameter 1 to be a valid path, object given in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 330
+[30-Jul-2021 10:34:10 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 293
+[30-Jul-2021 10:34:10 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 293
+[30-Jul-2021 10:34:10 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 293
+[30-Jul-2021 10:34:10 Africa/Johannesburg] PHP Warning:  is_file() expects parameter 1 to be a valid path, object given in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 330
+[30-Jul-2021 10:34:11 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 293
+[30-Jul-2021 10:34:11 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 293
+[30-Jul-2021 10:34:11 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 293
+[30-Jul-2021 10:34:11 Africa/Johannesburg] PHP Warning:  is_file() expects parameter 1 to be a valid path, object given in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 330
+[30-Jul-2021 11:46:24 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 120
+[30-Jul-2021 11:46:24 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 120
+[30-Jul-2021 11:46:24 Africa/Johannesburg] PHP Warning:  Illegal offset type in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 120
+[30-Jul-2021 11:46:24 Africa/Johannesburg] PHP Warning:  is_file() expects parameter 1 to be a valid path, object given in /home/ubsysnlc/public_html/client/capitec/statementPdf.php on line 157

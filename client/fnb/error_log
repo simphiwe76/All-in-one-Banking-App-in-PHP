@@ -1,0 +1,246 @@
+[13-Jun-2021 13:10:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/client/fnb/index.php on line 10
+[13-Jun-2021 13:42:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/client/fnb/index.php on line 10
+[13-Jun-2021 13:58:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/client/fnb/index.php on line 10
+[14-Jun-2021 01:56:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/client/fnb/payment.php on line 16
+[20-Jun-2021 23:18:36 UTC] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 4
+[20-Jun-2021 23:18:36 UTC] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 4
+[20-Jun-2021 23:18:36 UTC] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 4
+[20-Jun-2021 23:18:39 UTC] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 4
+[20-Jun-2021 23:18:39 UTC] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 4
+[20-Jun-2021 23:18:39 UTC] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 4
+[20-Jun-2021 23:18:52 UTC] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 4
+[20-Jun-2021 23:18:52 UTC] PHP Warning:  require(print/fpdf.php): failed to open stream: No such file or directory in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 4
+[20-Jun-2021 23:18:52 UTC] PHP Fatal error:  require(): Failed opening required 'print/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 4
+[20-Jun-2021 23:23:34 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[20-Jun-2021 23:23:55 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[20-Jun-2021 23:24:52 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[20-Jun-2021 23:29:11 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 01:50:41 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 01:50:56 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 01:52:17 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 01:53:41 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:06:14 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:06:14 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:06:40 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:06:40 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:06:51 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:06:51 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:16:39 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:16:39 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:16:56 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:16:56 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:17:11 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:17:11 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:17:35 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:17:35 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:17:52 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:17:52 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:18:08 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:18:08 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:19:01 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:19:01 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:20:19 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:20:19 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:21:56 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:21:56 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:25:33 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 126
+[21-Jun-2021 02:25:33 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 127
+[21-Jun-2021 02:25:33 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(222): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:25:51 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 126
+[21-Jun-2021 02:25:51 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 127
+[21-Jun-2021 02:25:51 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(222): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:27:35 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 126
+[21-Jun-2021 02:27:35 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 127
+[21-Jun-2021 02:27:35 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(222): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:31:37 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(222): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:32:13 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(222): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:34:11 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(222): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:34:46 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(222): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:38:49 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(222): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:43:58 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(222): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:48:25 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:48:25 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:48:38 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 111
+[21-Jun-2021 02:48:38 Africa/Johannesburg] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ubsysnlc/public_html/client/fnb/viewStatement.php on line 112
+[21-Jun-2021 02:49:51 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:50:17 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'SIMPHIWE.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:52:02 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'statement.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:52:24 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'statement.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:53:31 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'statement.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:53:46 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'statement.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:53:52 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'statement.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:54:54 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'statement.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:55:08 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'statement.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:55:23 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/ubsysnlc/public_html/client/fnb/viewStatement.php:13) in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php:271
+Stack trace:
+#0 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/ubsysnlc/public_html/client/fnb/print/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/ubsysnlc/public_html/client/fnb/viewStatement.php(219): FPDF->Output('D', 'statement.pdf')
+#3 {main}
+  thrown in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 271
+[21-Jun-2021 02:56:55 Africa/Johannesburg] PHP Fatal error:  Cannot declare class FPDF, because the name is already in use in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 12
+[21-Jun-2021 02:57:11 Africa/Johannesburg] PHP Fatal error:  Cannot declare class FPDF, because the name is already in use in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 12
+[21-Jun-2021 02:57:38 Africa/Johannesburg] PHP Fatal error:  Cannot declare class FPDF, because the name is already in use in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 12
+[21-Jun-2021 03:01:17 Africa/Johannesburg] PHP Fatal error:  Cannot declare class FPDF, because the name is already in use in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 12
+[21-Jun-2021 05:21:04 Africa/Johannesburg] PHP Fatal error:  Cannot declare class FPDF, because the name is already in use in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 12
+[21-Jun-2021 05:21:23 Africa/Johannesburg] PHP Fatal error:  Cannot declare class FPDF, because the name is already in use in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 12
+[21-Jun-2021 05:21:38 Africa/Johannesburg] PHP Fatal error:  Cannot declare class FPDF, because the name is already in use in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 12
+[21-Jun-2021 05:22:00 Africa/Johannesburg] PHP Fatal error:  Cannot declare class FPDF, because the name is already in use in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 12
+[21-Jun-2021 05:22:02 Africa/Johannesburg] PHP Fatal error:  Cannot declare class FPDF, because the name is already in use in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 12
+[21-Jun-2021 05:22:03 Africa/Johannesburg] PHP Fatal error:  Cannot declare class FPDF, because the name is already in use in /home/ubsysnlc/public_html/client/fnb/print/fpdf.php on line 12

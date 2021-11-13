@@ -1,0 +1,40 @@
+[12-Jun-2021 23:40:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/addClient.php on line 100
+[13-Jun-2021 12:50:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/addClient.php on line 100
+[13-Jun-2021 13:12:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/addClient.php on line 202
+[13-Jun-2021 13:16:37 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubsysnlc/public_html/bank/employee/addClient.php on line 106
+[13-Jun-2021 13:17:23 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubsysnlc/public_html/bank/employee/addClient.php on line 106
+[13-Jun-2021 13:17:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubsysnlc/public_html/bank/employee/addClient.php on line 106
+[13-Jun-2021 13:17:34 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubsysnlc/public_html/bank/employee/addClient.php on line 106
+[13-Jun-2021 13:17:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubsysnlc/public_html/bank/employee/addClient.php on line 106
+[13-Jun-2021 13:19:06 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubsysnlc/public_html/bank/employee/addClient.php on line 207
+[13-Jun-2021 13:23:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/addClient.php on line 202
+[13-Jun-2021 20:39:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubsysnlc/public_html/bank/employee/update.php on line 56
+[13-Jun-2021 20:49:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubsysnlc/public_html/bank/employee/update.php on line 56
+[13-Jun-2021 20:53:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubsysnlc/public_html/bank/employee/update.php on line 56
+[13-Jun-2021 20:53:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubsysnlc/public_html/bank/employee/update.php on line 56
+[13-Jun-2021 21:57:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubsysnlc/public_html/bank/employee/update.php on line 56
+[13-Jun-2021 22:22:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubsysnlc/public_html/bank/employee/update.php on line 56
+[13-Jun-2021 22:28:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubsysnlc/public_html/bank/employee/update.php on line 56
+[13-Jun-2021 22:36:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubsysnlc/public_html/bank/employee/update.php on line 56
+[20-Jun-2021 02:24:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/clientCSV.php on line 29
+[20-Jun-2021 11:53:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/clientCSV.php on line 29
+[20-Jun-2021 17:55:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/deleteClient.php on line 15
+[20-Jun-2021 19:36:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/deleteClient.php on line 15
+[23-Jun-2021 09:42:46 Africa/Johannesburg] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/deleteClient.php on line 15
+[24-Jun-2021 16:21:52 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 16
+[24-Jun-2021 16:22:34 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 16
+[24-Jun-2021 16:22:40 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 16
+[24-Jun-2021 17:23:46 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 16
+[24-Jun-2021 17:25:02 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 16
+[24-Jun-2021 19:38:51 Africa/Johannesburg] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 28
+[25-Jun-2021 02:33:37 Africa/Johannesburg] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 28
+[28-Jun-2021 15:24:28 Africa/Johannesburg] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 28
+[28-Jun-2021 15:24:42 Africa/Johannesburg] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 28
+[28-Jun-2021 22:02:35 Africa/Johannesburg] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 28
+[28-Jun-2021 22:02:47 Africa/Johannesburg] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 28
+[28-Jun-2021 22:02:53 Africa/Johannesburg] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 28
+[28-Jun-2021 22:02:59 Africa/Johannesburg] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 28
+[28-Jun-2021 22:03:58 Africa/Johannesburg] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 28
+[29-Jun-2021 01:10:12 Africa/Johannesburg] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 31
+[29-Jun-2021 02:13:17 Africa/Johannesburg] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 31
+[29-Jun-2021 14:02:36 Africa/Johannesburg] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ubsysnlc/public_html/bank/employee/viewClients.php on line 31
